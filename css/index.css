@@ -26,7 +26,18 @@ body {
 
 /* User block */
 .user-block {
+  flex: 1;
   display: flex;
   flex-wrap: nowrap;
   gap: 20px;
+}
+
+/* Horizontal rule */
+.horizontal-rule {
+  flex: 1;
+  margin: 0;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #eeeeee;
 }
