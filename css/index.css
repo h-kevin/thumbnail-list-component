@@ -1,0 +1,10 @@
+/* Global styling */
+html,
+body {
+  margin: 0;
+  background-color: #5b9eed;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
